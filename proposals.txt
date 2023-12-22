@@ -2,8 +2,4 @@
 222227,11111,['raw3aaa', 'gamda'],reject
 222228,11111,['raw3aaa', 'gamda'],accept
 222229,11111,['raw3aaa', 'gamda'],pending
-222226,11111,['raw3aaa', 'gamda','to7fa'],accept
-222227,11111,['raw3aaa', 'gamda'],reject
-222228,11111,['raw3aaa', 'gamda'],accept
-222229,11111,['raw3aaa', 'gamda'],pending
-222226,habiba_mostafa,['inteligent', 'smart', 'can cook '],pending
+222221,habiba_mostafa,['inteligent', 'smart', 'can cook '],pending
